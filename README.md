@@ -1,6 +1,6 @@
 # 🚀 Olá, sou Rafael Rodrigues de Sousa Oliveira
 ## 🎓 Onde estou Estudando?
-Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI Valinhos, onde estou aprendendo as seguintes tecnologias: sistemas operacionais, levantamento de requisitos, lógica de programação e arquitetura de redes com IOT.
+Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI Valinhos, onde estou aprendendo as seguintes tecnologias: Sistemas Operacionais, Levantamento de Requisitos, Lógica de Programação e Arquitetura de Redes com IOT.
 ## 🛠️ O que Estou Aprendendo
 
 
